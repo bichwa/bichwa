@@ -35,8 +35,8 @@ Coming soon!
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/erick-karani-48827424/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/rickarani)
+- LinkedIn: https://www.linkedin.com/in/erick-karani-48827424/
+- Twitter: https://twitter.com/rickarani
 
 Feel free to reach out if you'd like to connect or discuss DevOps, tech, or anything else!
 
