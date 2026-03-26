@@ -52,4 +52,11 @@ I'm a **Kenya-based IT professional, AI practitioner, and builder** — currentl
 - Harvard Kennedy School — AI Policy & Governance (DPI-681)
 - Claude Certified Architect *(in progress)*
 
-## 📫 Let's Co
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/erick-karani-48827424/)
+- 🐦 [Twitter / X](https://twitter.com/rickarani)
+- 📧 Open to freelance, consulting, and AI project collabs
+
+---
+
+*Currently open to: AI integration projects · WordPress & systems work · DevOps consulting · Speaking on tech & productivity*
