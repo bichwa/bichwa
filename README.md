@@ -39,7 +39,7 @@ I'm a **Kenya-based IT professional, AI practitioner, and builder** — currentl
 - **AI-assisted content and automation** for clients and personal projects
 
 ## 🏃 Beyond the Terminal
-- 🦶 Runner — authored *[From Couch to Runner](https://gumroad.com)* (eBook on Gumroad)
+- 🦶 Runner — authored *[From Couch to Runner](https://rickarani1.gumroad.com/l/fqbphf)* (eBook on Gumroad)
 - 🏔️ Training for ultra marathons — including a **65K ultra at Sagana**
 - 🎙️ **Immediate Past President**, Magnetic Toastmasters Club
 - 📖 Stoicism enthusiast — running *The Stoic Weave* YouTube channel
